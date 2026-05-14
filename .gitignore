@@ -1,0 +1,47 @@
+# Build directories
+build/
+.gradle/
+
+# IDE directories
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Local properties
+local.properties
+
+# Gradle files
+gradlew
+gradlew.bat
+gradle/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.swp
+*.swo
+*~
+
+# Binary files
+*.class
+*.jar
+*.war
+*.ear
+
+# Error logs
+hs_err_pid*.log
+
+# Android Studio captures folder
+captures/
+
+# Environment files
+.env
+.env.local
+
+# Workspace
+workspace.code-workspace
